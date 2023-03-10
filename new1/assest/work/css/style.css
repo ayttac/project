@@ -1,0 +1,45 @@
+i {
+    font-size: 200px;
+    color: saddlebrown;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Coffee1 {
+    padding-top: 10px;
+    padding-right: 0px;
+    font-size: medium;
+    box-sizing: border-box;
+}
+.text{
+    font-family: 'Oswald', sans-serif;
+}
+.text3{
+    padding-top: 40px;
+    font-size: 20px;
+}
+.text2{
+    font-size: 30px;
+}
+.text1{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+.Coffee2{
+    box-sizing: border-box;
+    padding-right: 300px;
+    margin: 0;
+    padding-top: 10px;
+    height: 700px;
+    width: 700px;
+}
+.text4{
+    font-family: 'Oswald', sans-serif;
+    padding-right: 300px;
+}
+.D{
+    padding-top: 30px;
+}
